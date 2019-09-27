@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rafiegahng.datetreedigital.com/sitemap.xml
